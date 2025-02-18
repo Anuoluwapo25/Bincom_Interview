@@ -1,7 +1,7 @@
 import random
 import statistics
 from collections import Counter
-# import psycopg2
+import psycopg2
 from typing import List
 
 class ColorAnalyzer:
